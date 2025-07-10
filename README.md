@@ -1,12 +1,11 @@
 ## Hi there, I'm Timofei 👋
 
-- I'm 2th grade MIPT DREC student 
+- I'm 3th grade MIPT DREC student 
 
 
 ### 🌱 I’m currently learning 
 - Python
-- C++
-- Arduino C
+
 
 
 ### 📫 How to reach me: 
